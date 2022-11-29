@@ -1,9 +1,9 @@
 # PROVIDER
-region               = "us-phoenix-1"
-tenancy_ocid         = "ocid1.tenancy.oc1..aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-current_user_ocid    = "ocid1.user.oc1..aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-api_fingerprint      = "a1:b2:c3:4d:5e:6f:7g:8h:99:10:aa:bb:11:12:13:cc"
-api_private_key_path = "~/path_to_example_api_key.pem"
+region               = "eu-zurich-1"
+tenancy_ocid         = "ocid1.tenancy.oc1..aaaaaaaasl433mgdo6bnh455jx34ux3gymm3gb7afhvjwprdbbyw25hfyxua"
+current_user_ocid    = "ocid1.user.oc1..aaaaaaaafk6yjxpprj4irvxdueyx3ptqu62xxab243rmjp4ybxda2zu4t2ma"
+api_fingerprint      = "ef:fa:cd:11:26:af:b4:e2:2c:62:e8:b5:e4:17:2e:2f"
+api_private_key_path = "/home/gpbuono/oracle-landing-zone/gpbuono.pem"
 
 # SANDBOX MODE
 is_sandbox_mode_enabled=false
