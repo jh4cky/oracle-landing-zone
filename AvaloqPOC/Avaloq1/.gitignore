@@ -1,0 +1,26 @@
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+
+# Book
+docs/book/book/
+
+# Common editor / temporary files
+*~
+*.tmp
+.DS_Store
+
+generated/
+kubeconfig
+curl-sa.sh
